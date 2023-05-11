@@ -1,0 +1,5 @@
+.layout-container {
+  display: flex;
+  column-gap: 12px;
+  font-size: 1.8rem;
+}
